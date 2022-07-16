@@ -6,7 +6,7 @@
 /*   By: juaigles <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/13 04:23:58 by juaigles          #+#    #+#             */
-/*   Updated: 2022/07/15 05:53:23 by juaigles         ###   ########.fr       */
+/*   Updated: 2022/07/15 07:09:32 by juaigles         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,8 @@ void	ft_print_reverse_alphabet(void)
 	}
 }
 
-/*int	main(void)
+int	main(void)
 {
 	ft_print_reverse_alphabet();
-}*/
+	return(0);
+}

@@ -6,7 +6,7 @@
 /*   By: juaigles <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/14 20:40:50 by juaigles          #+#    #+#             */
-/*   Updated: 2022/07/15 05:41:15 by juaigles         ###   ########.fr       */
+/*   Updated: 2022/07/15 16:39:43 by juaigles         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,7 +63,7 @@ void	ft_print_comb2(void)
 	}
 }
 
-/*int	main(void)
+int	main(void)
 {
 	ft_print_comb2();
-}*/
+}
